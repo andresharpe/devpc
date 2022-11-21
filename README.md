@@ -12,6 +12,7 @@ winget install Microsoft.DotNet.SDK.5
 winget install Microsoft.DotNet.SDK.6
 winget install Microsoft.Nuget
 winget install GitHub.Cli
+winget install Docker.DockerDesktop
 winget install JanDeDobbeleer.OhMyPosh -s winget
 
 Install-Module -Name Terminal-Icons -Repository PSGallery
