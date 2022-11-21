@@ -13,12 +13,14 @@ winget install Microsoft.DotNet.SDK.6
 winget install Microsoft.Nuget
 winget install GitHub.Cli
 winget install Docker.DockerDesktop
+winget install Microsoft.AzureDataStudio
 winget install Dbeaver.Dbeaver
 winget install JanDeDobbeleer.OhMyPosh -s winget
 
 Install-Module -Name Terminal-Icons -Repository PSGallery
 
 exit
+Microsoft.AzureDataStudio
 ```
 
 ``` powershell
