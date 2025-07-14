@@ -12,7 +12,7 @@ winget install Microsoft.Nuget
 winget install GitHub.Cli
 winget install Docker.DockerDesktop
 winget install Microsoft.AzureDataStudio
-winget install Dbeaver.Dbeaver
+winget install Dbeaver.Dbeaver.Community
 winget install Postman.Postman
 winget install JanDeDobbeleer.OhMyPosh -s winget
 
